@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Tobias, SE for AppDynamics Full Stack Observability 
-- 👀 I’m interested in Monitoting, MELT, OTel 
+- 👀 I’m interested in Monitoting, MELT, OTel and road cycling 
 - 🌱 I’m currently learning OTEL
