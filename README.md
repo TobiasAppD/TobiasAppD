@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @TobiasAppD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TobiasAppD/TobiasAppD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Tobias, SE for AppDynamics Full Stack Observability 
+- 👀 I’m interested in Monitoting, MELT, OTel 
+- 🌱 I’m currently learning OTEL
